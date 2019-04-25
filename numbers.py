@@ -6,6 +6,7 @@ win=tk.Tk()
 win.resizable(False,False)
 win.title("MOBILE NUMBERS")
 
+#message
 Information=ttk.Label(win,text="ENTER YOUR INFORMATION HERE",background="lightblue")
 Information.grid(row=0,columnspan=2,padx=20)
 
